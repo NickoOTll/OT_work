@@ -1,0 +1,6 @@
+Files:
+
+final1 - the main html.
+HowToUsefinal - second html which tells the user how to use the downloader.
+FAQFinal - third html which shows the users frequently asked questions.
+
